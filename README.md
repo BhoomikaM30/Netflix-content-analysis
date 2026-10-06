@@ -33,4 +33,4 @@ The catalog is heavily concentrated in US-produced, mature-rated movies.
 Since international content and TV shows make up a smaller share, there may 
 be an opportunity to grow in those areas to reach a broader audience.
 
-![Dashboard](dashboard-screenshot.png)
+![Dashboard](netflix_dashboard.png)
